@@ -1,9 +1,10 @@
 # developer-book
-This is a personal knowledge base. Keeping such a knowledge base significantly boosts software designer/developer's efficiency as it helps to structure and collect valuable insights being gained while solving problems.  
+This is a personal knowledge base. Keeping such a knowledge base greatly boosts software designer/developer's efficiency as it helps to structure and collect valuable insights being gained while solving problems.  
   
-I plan to fill it with at least the following chapters:
+My goal is to fill it with at least the following chapters:
 
-* [Java](https://github.com/ivanwolkow/developer-book/blob/main/Java.pdf)
+* [Java](Java.pdf)
 * Spring
-* Software and System Design
+* [Software and System Design](Software%20And%20System%20Design.pdf)
 * Databases
+* [Amazon Web Services](Amazon%20Web%20Services.pdf)
