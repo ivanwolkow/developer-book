@@ -9,3 +9,4 @@ My goal is to fill it with at least the following parts:
 * Databases
 * [Amazon Web Services](Amazon%20Web%20Services.pdf)
 * [Bash profile tips](zprofile)
+* [Gradle](Gradle.pdf)
