@@ -5,8 +5,9 @@ My goal is to fill it with at least the following parts:
 
 * [Java](Java.pdf)
 * Spring
-* [Software and System Design](Software%20And%20System%20Design.pdf)
-* [Software Containerization](Software%20Containerization.pdf)
+* [Software Design](Software%20Design.pdf)
+* [System Design](System%20Design.pdf)
+* [Containers and Orchestration](Containers%20and%20Orchestration.pdf)
 * Databases
 * [Amazon Web Services](Amazon%20Web%20Services.pdf)
 * [Bash profile tips](zprofile)
