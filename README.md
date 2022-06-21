@@ -1,10 +1,8 @@
 # developer-book
-This is a personal knowledge base. Keeping such a knowledge base greatly boosts software designer/developer's efficiency as it helps to structure and collect valuable insights being gained while solving problems.  
-  
-My goal is to fill it with at least the following parts:
+This is a personal knowledge base / cookbook where I keep any information that I find useful, in a structured way.
 
 * [Java](Java.pdf)
-* Spring
+* [Spring](Spring.pdf)
 * [Software Design](Software%20Design.pdf)
 * [System Design](System%20Design.pdf)
 * [Containers and Orchestration](Containers%20and%20Orchestration.pdf)
